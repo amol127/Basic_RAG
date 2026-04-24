@@ -62,7 +62,6 @@ messages=[
 ]
 )
 
-
 print(f"AI > ",{response.choices[0].message.content})
 
 
